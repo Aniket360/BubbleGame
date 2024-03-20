@@ -42,7 +42,7 @@ body {
 .elem {
     display: flex;
     align-items: center;
-    gap: 20px;
+    
 
 
 }
@@ -114,6 +114,10 @@ body {
     .elem h2 {
         font-weight: 500;
         font-size: 14px;
+    }
+    .elem{
+        gap: 7px;
+        margin: 0px 15px;
     }
 
 }
