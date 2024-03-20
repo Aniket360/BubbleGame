@@ -104,12 +104,16 @@ body {
     }
 
     .box {
-        padding: 5px 12px;
+        padding: 1px 8px;
     }
 
     #pbtm{
         flex-wrap: wrap;
-        gap: 6px;
+        gap: 7px;
+    }
+    .elem h2 {
+        font-weight: 500;
+        font-size: 14px;
     }
 
 }
@@ -127,6 +131,6 @@ body {
     }
     #pbtm{
         flex-wrap: wrap;
-        gap: 6px;
+        gap: 8px;
     }
 }
