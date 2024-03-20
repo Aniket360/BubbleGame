@@ -109,7 +109,7 @@ body {
 
     #pbtm{
         flex-wrap: wrap;
-        gap: 7px;
+        gap: 9px;
     }
     .elem h2 {
         font-weight: 500;
